@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cffffaa00gx|r|cff999999Media|r
+## Author: martinjlowm
+## Version: 1.0
+## Notes: A global table of media.
+
+media.lua
